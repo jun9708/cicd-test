@@ -9,7 +9,7 @@ on:
 # 해당 yml 내에서 사용할 key-value 속성
 env:  
   PROJECT_NAME: cicd-test
-  AWS_REGION: ap-northeast-2
+  AWS_REGION: us-east-1
   S3_BUCKET_NAME: jun-s3-bucket-github-actions
   CODE_DEPLOY_APPLICATION_NAME: jun-codedeploy-app
   CODE_DEPLOY_DEPLOYMENT_GROUP_NAME: jun-codedeploy-deploy-group
